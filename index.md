@@ -4,7 +4,7 @@
 zhoukong@njust.edu.cn
 
 {:refdef: style="text-align: right;"}
-（更新于2022年7月）
+（更新于2022年8月）
 {: refdef}
 
 2021.06至今，就职于南京理工大学经济管理学院（企业管理系），讲师
@@ -14,9 +14,12 @@ zhoukong@njust.edu.cn
 ### **研究方向**
 绩效薪酬，创造力，领导力，主动性行为
 
-### **期刊论文** (* 代表通讯作者，更新于2022年7月)
+### **期刊论文** (* 代表通讯作者，† 代表同等贡献)
+更新于2022年7月)
 
-1. **Zhou, K.**, Yin, W., Hu, X., Ouyang, X.* , Gui, C., & Tan, B. (2022). Could you give me some advice? How and when leader consultation sparks employee proactivity. *Personnel Review*, Advanced online publication. https://doi.org/10.1108/PR-01-2021-0040 (JCR: Q2; ABS: 2)
+1. Zhao, Y.†, **Zhou, K.**†, & Liu, W.* (*Inpress*) Why and When Narcissistic Employees are More Creative in the Workplace? A Social Cognitive Perspective. *Management and Organization Review*, (JCR: Q3; ABS: 3)
+
+12. **Zhou, K.**, Yin, W., Hu, X., Ouyang, X.* , Gui, C., & Tan, B. (2022). Could you give me some advice? How and when leader consultation sparks employee proactivity. *Personnel Review*, Advanced online publication. https://doi.org/10.1108/PR-01-2021-0040 (JCR: Q2; ABS: 2)
 
 11. Wang, H., Jiang, L., Xu, X., **Zhou, K.*** , & Bauer, T. (2022). Dynamic relationships between leader–member exchange and employee role-making behaviours: The moderating role of employee emotional ambivalence. *Human Relations*, Advanced online publication. https://doi.org/10.1177/00187267221075253 (FT-50; JCR: Q1; ABS: 4)
 
