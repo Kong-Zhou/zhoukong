@@ -19,7 +19,7 @@ Pay-for-performance; Leadership; Creativity; Proactivity
 ### **Refereed Journal Publications**
 
 {:refdef: style="text-align: right;"}
-* indicates corresponding author; † indicates equal contribution
+(* indicates corresponding author; † indicates equal contribution)
 {: refdef}
 
 1. Zhao, Y.†, **Zhou, K.**†, & Liu, W.* (*Inpress*) Why and When Narcissistic Employees are More Creative in the Workplace? A Social Cognitive Perspective. *Management and Organization Review*, (JCR: Q3; ABS: 3)
@@ -58,8 +58,8 @@ Pay-for-performance; Leadership; Creativity; Proactivity
 ### **Professional Services**
 Review for the following academic journals:
 
-*Human Resource Management*
+1. *Human Resource Management*
 
-*Journal of Business Research*
+2. *Journal of Business Research*
 
-*The International Journal of Human Resource Management*
+3. *The International Journal of Human Resource Management*
