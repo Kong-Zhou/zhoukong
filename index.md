@@ -11,10 +11,16 @@ Assistant Professor, School of Economics & Management, Nanjing University of Sci
 
 Ph.D., Business Administration, Huazhong University of Science and Technology (Sep. 2017 to June 2021)
 
+
 ### **Research Interests**
 Pay-for-performance; Leadership; Creativity; Proactivity
 
-### **Refereed Journal Publications** (* indicates corresponding author; † indicates equal contribution)
+
+### **Refereed Journal Publications**
+
+{:refdef: style="text-align: right;"}
+* indicates corresponding author; † indicates equal contribution
+{: refdef}
 
 1. Zhao, Y.†, **Zhou, K.**†, & Liu, W.* (*Inpress*) Why and When Narcissistic Employees are More Creative in the Workplace? A Social Cognitive Perspective. *Management and Organization Review*, (JCR: Q3; ABS: 3)
 
@@ -36,18 +42,24 @@ Pay-for-performance; Leadership; Creativity; Proactivity
 
 1. Guo, Q., Liu, W., **Zhou, K.*** , & Mao, J. (2020). Leader humility and employee organizational deviance: The role of sense of power and organizational identification. *Leadership & Organization Development Journal*, 41: 463–479. (JCR: Q3; ABS: 1)
 
+
 ### **Conference Presentations**
-1. Cheng, H., Tang, S., Liu, Z., Yin, W., & **Zhou, K.** (2021). How narcissism, promotions criterion, and empowering leadership jointly influence radical creativity. *Academy of Management Proceedings*, 11716
+1. Liang, Y., Wu, X., He, W., & **Zhou, K.** (2022). The role of leader negative emotions in mitigating employee disgust towards leader surface acting. *Academy of Management Proceedings*, 13711.(Seattle, U.S.)
 
-2. Xu, Y., Huang, Y., Huang, Y., Chen, K., & **Zhou, K.** (2021). How Status Diversity Fosters Team Innovation? The Role of Behavior Integration and Empowering Leader. *Academy of Management Proceedings*, 14324.
+2. Zhou, X. & **Zhou, K.** (2022). Double-edged effect of leader narcissism on team radical creativity. *Academy of Management Proceedings*, 16205.(Seattle, U.S.)
 
-1. Jiang, X., He, W., & **Zhou, K.** (2021). I Lost my temper! An intrapersonal perspective on the consequences of leader anger expression. *Academy of Management Proceedings*, 15450.
+1. Jiang, X., He, W., & **Zhou, K.** (2021). I Lost my temper! An intrapersonal perspective on the consequences of leader anger expression. *Academy of Management Proceedings*, 15450.(Online)
+
 
 ### **Grants**
 1. Liu, Z. et al.，Research on the mechanism of organizational Co-opetition and radical innovation based on cross- boundary sharing. 240,0000 *yuan. National Natural Science Foundation of China*（2019−2023）
 
+
 ### **Professional Services**
 Review for the following academic journals:
-*Human Resource Management
-Journal of Business Research
-The International Journal of Human Resource Management*
+
+*Human Resource Management*
+
+*Journal of Business Research*
+
+*The International Journal of Human Resource Management*
