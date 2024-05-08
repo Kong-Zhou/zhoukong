@@ -18,7 +18,7 @@
 
 - Zhan, Y., Long, L.*, <strong>Zhou, K.</strong>, & Wang, H. (2023). Feeling obliged or happy to be a good soldier? Employee cognitive and affective reactions to receiving reactive and proactive help. *Asia Pacific Journal of Management*, *40*: 37–57. <strong>(JCR: Q2; ABS: 3)</strong>
 
-- Liu, Z., Zhou, R., Wei, L., Ouyang, X.*/, & <strong>Zhou, K.</strong> (2023). How and when does leader narcissism hinder team radical creativity? The role of team information elaboration and inter-team competition. *Chinese Management Studies*, *17*(1): 46–63. <strong>(JCR: Q4; ABS: 1)</strong>
+- Liu, Z., Zhou, R., Wei, L., Ouyang, X.*, & <strong>Zhou, K.</strong> (2023). How and when does leader narcissism hinder team radical creativity? The role of team information elaboration and inter-team competition. *Chinese Management Studies*, *17*(1): 46–63. <strong>(JCR: Q4; ABS: 1)</strong>
 
 - 刘智强, 卫利华*, <strong>周空</strong>, 廖书迪. (2022). 社会距离视角下集体心理所有权对团队突破性创造力的影响研究. *中国工业经济*, *12*: 166–184. <strong>(国家自然科学基金委A类期刊)</strong>
 
@@ -30,7 +30,7 @@
 
 - Cheng, Z., Liu, W., & <strong>Zhou, K.</strong>*, Che, Y., & Han, Y. (2021). Empowering leadership and employees’ pro-environmental behavior: The role of psychological ownership, empowerment role identity, and environmental self-identity. *Business Ethics, the Environment & Responsibility*, *30*(4): 604–618. <strong>(JCR: Q1; ABS: 2)</strong>
 
-- Hu, J., <span style="font-style: normal;">He, W.*</span>, & <strong>Zhou, K.</strong> (2020). The mind, the heart, and the leader in times of crisis: How and when Covid-19-triggered mortality salience relates to state anxiety, job engagement, and prosocial behavior. *Journal of Applied Psychology*, *105*(11): 1218–1233. <strong>(FT-50; JCR: Q1; ABS: 4*)</strong>
+- Hu, J., He, W.,* & <strong>Zhou, K.</strong> (2020). The mind, the heart, and the leader in times of crisis: How and when Covid-19-triggered mortality salience relates to state anxiety, job engagement, and prosocial behavior. *Journal of Applied Psychology*, *105*(11): 1218–1233. <strong>(FT-50; JCR: Q1; ABS: 4*)</strong>
 
 - <strong>Zhou, K.</strong>, Liu, W., Li, M.**, Cheng, Z., & Hu, X. (2020). The relationship between narcissism and taking charge: The role of energy at work and hierarchical level. *Psychological Reports*, *123*(2): 472–487. <strong>(JCR: Q3; ABS: 1)</strong>
 
