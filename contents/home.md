@@ -10,6 +10,7 @@
 
 #### 学术服务
 责任编辑：《中国人力资源开发》、《人力资源管理评论》
+
 审稿期刊：
 《心理学报》、《管理学报》                             
 《Human Resource Management》、《Management and Organization Review》、《Journal of Organizational Behavior》、《Journal of Business Research》
