@@ -34,7 +34,7 @@
 
 - Hu, J., He, W.,* & <strong style="background-color: lightgreen;">Zhou, K.</strong> (2020). The mind, the heart, and the leader in times of crisis: How and when Covid-19-triggered mortality salience relates to state anxiety, job engagement, and prosocial behavior. *Journal of Applied Psychology*, *105*(11): 1218–1233. <strong>(FT-50; JCR: Q1; ABS: 4*)</strong> [[Paper Link]](https://doi.org/10.1037/apl0000620) 
 
-- <strong style="background-color: lightgreen;">Zhou, K.</strong>, Liu, W., Li, M.**, Cheng, Z., & Hu, X. (2020). The relationship between narcissism and taking charge: The role of energy at work and hierarchical level. *Psychological Reports*, *123*(2): 472–487. <strong>(JCR: Q3; ABS: 1)</strong> [[Paper Link]](https://doi.org/10.1177/003329411881161) 
+- <strong style="background-color: lightgreen;">Zhou, K.</strong>, Liu, W., Li, M.*, Cheng, Z., & Hu, X. (2020). The relationship between narcissism and taking charge: The role of energy at work and hierarchical level. *Psychological Reports*, *123*(2): 472–487. <strong>(JCR: Q3; ABS: 1)</strong> [[Paper Link]](https://doi.org/10.1177/0033294118811615) 
 
 - Guo, Q., Liu, W., <strong style="background-color: lightgreen;">Zhou, K.</strong>*, & Mao, J. (2020). Leader humility and employee organizational deviance: The role of sense of power and organizational identification. *Leadership & Organization Development Journal*, *41*(3): 463–479. <strong>(JCR: Q3; ABS: 1)</strong> [[Paper Link]](https://doi.org/10.1108/LODJ-07-2019-0287) 
     
