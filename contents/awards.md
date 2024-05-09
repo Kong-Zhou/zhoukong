@@ -1,19 +1,13 @@
 
 
   
-<br>
-
-#### 团队介绍
-
-- 年轻团队，沟通简单，氛围融洽
-- 科研导向，有较多的学术任务
-- 有意加入团队的学生请在录取结果确定后联系
-
 
 <br>
 
-#### For Foreign Students
+#### 国家自然科学基金
 
-- I will not provide acceptance letters.
+- 2023−2025，青年项目(从想法产生到实施：团队绩效薪酬对团队创新的影响机制研究；72202096)，项目主持人，30万
+  
+- 2019–2024，重点项目(基于跨界共享的组织竞合与突破性创新机制研究；71832004)，参与者，240万
 
-- Please refrain from contacting me for your supervision guidance.
+
