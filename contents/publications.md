@@ -1,6 +1,6 @@
 <span style="font-size: smaller;">标*为通讯作者，标†为共同一作，下划线为本人所带学生</span><br>
 
-- Liu, Z., <strong style="background-color: lightgreen;">Zhou, K.</strong>*, & Wang, J. (2024). How narcissism, promotion criteria, and empowering leadership jointly influence creativity through diverse information searching: An expectancy perspective. *Human Relations*, Advance online publication. <strong>(FT-50; JCR: Q1; ABS: 4)</strong> [[Paper Link]](https://doi.org/10.1177/0018726724123985)
+- Liu, Z., <strong style="background-color: lightgreen;">Zhou, K.</strong>*, & Wang, J. (2024). How narcissism, promotion criteria, and empowering leadership jointly influence creativity through diverse information searching: An expectancy perspective. *Human Relations*, Advance online publication. <strong>(FT-50; JCR: Q1; ABS: 4)</strong> [[Paper Link]](https://doi.org/10.1177/00187267241239855)
 
 - <strong style="background-color: lightgreen;">Zhou, K.</strong>, Xia, Y.†, Zhang, G.†*, He, W., & Jiang, K. (2024). Delayed pay and employee turnover: The buffering role of pay-for-performance. *Human Resource Management*, *63*(1), 121–139. <strong>(FT-50; JCR: Q1; ABS: 4)</strong>  [[Paper Link]](https://doi.org/10.1002/hrm.22191) 
 
