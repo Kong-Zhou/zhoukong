@@ -1,7 +1,7 @@
 #### 基本信息
-- 南京理工大学，企业管理系，讲师
+- 南京理工大学，经济管理学院
+- 企业管理系，副系主任
 - 硕士研究生导师
-- 副系主任
 
 #### 研究方向
 绩效薪酬; 创造力; 领导力; 情绪
@@ -11,7 +11,11 @@
 - 2017.06–2021.06, 华中科技大学，博士
 
 #### 学术服务
-- 责任编辑：《中国人力资源开发》、《人力资源管理评论》
-- 审稿期刊：
-《心理学报》、《管理学报》                             
-《Human Resource Management》、《Management and Organization Review》、《Journal of Organizational Behavior》、《Journal of Business Research》
+- 《中国人力资源开发》（责任编辑）
+- 《人力资源管理评论》（责任编辑）
+- *Human Resource Management*（匿名审稿人）
+- *Journal of Organizational Behavior*（匿名审稿人）
+- *Management and Organization Review*（匿名审稿人）
+- 《心理学报》（匿名审稿人）
+- 《管理学报》（匿名审稿人）
+
