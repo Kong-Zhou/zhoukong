@@ -13,9 +13,9 @@
 #### 学术服务
 - 《中国人力资源开发》（责任编辑）
 - 《人力资源管理评论》（责任编辑）
-- *Human Resource Management*（匿名审稿人）
-- *Journal of Organizational Behavior*（匿名审稿人）
-- *Management and Organization Review*（匿名审稿人）
+-  *Human Resource Management*（匿名审稿人）
+-  *Journal of Organizational Behavior*（匿名审稿人）
+-  *Management and Organization Review*（匿名审稿人）
 - 《心理学报》（匿名审稿人）
 - 《管理学报》（匿名审稿人）
 
