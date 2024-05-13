@@ -1,5 +1,6 @@
 <span style="font-size: smaller;">标*为通讯作者，标†为共同一作，下划线为本人所带学生</span><br>
-
+<br>
+#### Journal Article
 - Zhang, Q. <strong style="background-color: lightgreen;">Zhou, K.</strong>, Zhang, Y.*, Zhou, P. & Zhang, Z. (2024). Reexamining the relationship between extrinsic rewards and creativity: a study from the creative process engagement perspective. *The International Journal of Human Resource Management*, Advance online publication. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1080/09585192.2024.2347645)
 
 - Liu, Z., <strong style="background-color: lightgreen;">Zhou, K.</strong>*, & Wang, J. (2024). How narcissism, promotion criteria, and empowering leadership jointly influence creativity through diverse information searching: An expectancy perspective. *Human Relations*, Advance online publication. <strong>(FT-50; JCR: Q1; ABS: 4)</strong> [[Paper Link]](https://doi.org/10.1177/00187267241239855)
@@ -44,4 +45,13 @@
 
 - 刘智强*, <strong style="background-color: lightgreen;">周空</strong>, 倪佳豪, 邵云飞. (2019). 组织内竞合的研究评述与未来展望. *管理学报*, *16*(8): 1245–1254. <strong>(国家自然科学基金委B类期刊)</strong>
 
+<br>
+#### Conference paper
 
+- Wu, X., Cheng, H., Liu, W., & <strong style="background-color: lightgreen;">Zhou, K.</strong> (2023). How collective pay-for-performance motivates organizational citizenship behavior. *Academy of Management Proceedings*, 17040. *(Boston, U.S.)*
+
+- Liang, Y., Wu, X., He, W., & <strong style="background-color: lightgreen;">Zhou, K.</strong> (2022). The role of leader negative emotions in mitigating employee disgust towards leader surface acting. *Academy of Management Proceedings*, 13711. *(Online)*
+
+- <strong style="background-color: lightgreen;">Zhou, K.</strong> & <ins>Zhou, X.</ins> (2022). Double-edged effect of leader narcissism on team radical creativity. *Academy of Management Proceedings*, 16205. *(Online)*
+
+- Jiang, X., He, W., & <strong style="background-color: lightgreen;">Zhou, K.</strong> (2021). I Lost my temper! An intrapersonal perspective on the consequences of leader anger expression. *Academy of Management Proceedings*, 15450. *(Online)*
