@@ -46,6 +46,7 @@
 - 刘智强*, <strong style="background-color: lightgreen;">周空</strong>, 倪佳豪, 邵云飞. (2019). 组织内竞合的研究评述与未来展望. *管理学报*, *16*(8): 1245–1254. <strong>(国家自然科学基金委B类期刊)</strong>
 
 <br>
+
 #### Conference paper
 
 - Wu, X., Cheng, H., Liu, W., & <strong style="background-color: lightgreen;">Zhou, K.</strong> (2023). How collective pay-for-performance motivates organizational citizenship behavior. *Academy of Management Proceedings*, 17040. *(Boston, U.S.)*
