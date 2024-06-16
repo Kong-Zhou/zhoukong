@@ -1,6 +1,8 @@
 <span style="font-size: smaller;">标*为通讯作者，标†为共同一作，下划线为本人所带学生</span><br>
 <br>
 #### Journal Article
+- Zhang, Q.† <strong style="background-color: lightgreen;">Zhou, K.†</strong>, Shu, P., Liu, W., Ouyang, X.* & Sun, A. (2024). Everything is in hand: when and why electronic performance monitoring leads to supervisor undermining. *Journal of Managerial Psychology*, Advance online publication. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1108/JMP-11-2023-0686)
+
 - Zhang, Q. <strong style="background-color: lightgreen;">Zhou, K.</strong>, Zhang, Y.*, Zhou, P. & Zhang, Z. (2024). Reexamining the relationship between extrinsic rewards and creativity: a study from the creative process engagement perspective. *The International Journal of Human Resource Management*, Advance online publication. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1080/09585192.2024.2347645)
 
 - Liu, Z., <strong style="background-color: lightgreen;">Zhou, K.</strong>*, & Wang, J. (2024). How narcissism, promotion criteria, and empowering leadership jointly influence creativity through diverse information searching: An expectancy perspective. *Human Relations*, Advance online publication. <strong>(FT-50; JCR: Q1; ABS: 4)</strong> [[Paper Link]](https://doi.org/10.1177/00187267241239855)
