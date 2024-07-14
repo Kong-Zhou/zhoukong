@@ -51,7 +51,7 @@
 
 #### Conference paper
 
-- Wang, Y., <strong style="background-color: lightgreen;">Zhou, K.</strong>, Liu, Y., Hu, X., Zhao, H. & Zhou, X. (2024). I am an intelligent leader! How and why leader humor impacts leader’s subsequent behaviors. *Academy of Management Proceedings*, 14597. *(Chicago, U.S.)*
+- <ins>Wang, Y.</ins>, <strong style="background-color: lightgreen;">Zhou, K.</strong>, Liu, Y., Hu, X., <ins>Zhao, H.</ins> & <ins>Zhou, X.</ins> (2024). I am an intelligent leader! How and why leader humor impacts leader’s subsequent behaviors. *Academy of Management Proceedings*, 14597. *(Chicago, U.S.)*
 
 - Wu, X., Cheng, H., Liu, W., & <strong style="background-color: lightgreen;">Zhou, K.</strong> (2023). How collective pay-for-performance motivates organizational citizenship behavior. *Academy of Management Proceedings*, 17040. *(Boston, U.S.)*
 
