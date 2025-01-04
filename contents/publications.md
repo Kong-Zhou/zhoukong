@@ -2,7 +2,7 @@
 <br>
 #### Journal Article
 
-- Liu, W. <strong style="background-color: lightgreen;">Zhou, K.</strong>, Ouyang, X.*, Chen, S. & Gao, K. (2025). When invisible eyes undermine proactive efforts: the effect of electronic performance monitoring on job crafting. *Internet Research*, Advance online publication. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1108/INTR-03-2024-0422)
+- Liu, W. <strong style="background-color: lightgreen;">Zhou, K.</strong>, Ouyang, X.*, Chen, S. & Gao, K. (2025). When invisible eyes undermine proactive efforts: the effect of electronic performance monitoring on job crafting. *Internet Research*, Advance online publication. <strong>(JCR: Q1; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1108/INTR-03-2024-0422)
 
 - Zhang, Q. <strong style="background-color: lightgreen;">Zhou, K.</strong>, Zhang, Y.*, Zhou, P. & Zhang, Z. (2024). Reexamining the relationship between extrinsic rewards and creativity: a study from the creative process engagement perspective. *The International Journal of Human Resource Management*, Advance online publication. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1080/09585192.2024.2347645)
 
