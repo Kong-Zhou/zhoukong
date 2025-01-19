@@ -4,17 +4,17 @@
 
 - Liu, W. <strong style="background-color: lightgreen;">Zhou, K.</strong>, Ouyang, X.*, Chen, S. & Gao, K. (2025). When invisible eyes undermine proactive efforts: the effect of electronic performance monitoring on job crafting. *Internet Research*, Advance online publication. <strong>(JCR: Q1; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1108/INTR-03-2024-0422)
 
+- Liu, Z., <strong style="background-color: lightgreen;">Zhou, K.</strong>*, & Wang, J. (2025). How narcissism, promotion criteria, and empowering leadership jointly influence creativity through diverse information searching: An expectancy perspective. *Human Relations*, *78*(2), 223–246. <strong>(FT-50; JCR: Q1; ABS: 4)</strong> [[Paper Link]](https://doi.org/10.1177/00187267241239855)
+
 - Zhang, Q. <strong style="background-color: lightgreen;">Zhou, K.</strong>, Zhang, Y.*, Zhou, P. & Zhang, Z. (2024). Reexamining the relationship between extrinsic rewards and creativity: a study from the creative process engagement perspective. *The International Journal of Human Resource Management*, Advance online publication. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1080/09585192.2024.2347645)
-
-- Liu, Z., <strong style="background-color: lightgreen;">Zhou, K.</strong>*, & Wang, J. (2024). How narcissism, promotion criteria, and empowering leadership jointly influence creativity through diverse information searching: An expectancy perspective. *Human Relations*, *78*(2), 223–246. <strong>(FT-50; JCR: Q1; ABS: 4)</strong> [[Paper Link]](https://doi.org/10.1177/00187267241239855)
-
+- 
 - <ins>赵欢</ins>, 张雅妮, 何为, 曹雨婷, <ins>王妤菁</ins>, <strong style="background-color: lightgreen;">周空</strong>* (2024). 说出我的美事: 好事分享的研究述评与展望. *中国人力资源开发*, *41*(10): 50–68. <strong>(北大核心)</strong>
 
 - Zhang, Q.† <strong style="background-color: lightgreen;">Zhou, K.†</strong>, Shu, P., Liu, W., Ouyang, X.* & Sun, A. (2024). Everything is in hand: when and why electronic performance monitoring leads to supervisor undermining. *Journal of Managerial Psychology*, *39*(8): 949–963. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1108/JMP-11-2023-0686)
 
 - <strong style="background-color: lightgreen;">Zhou, K.</strong>, Xia, Y.†, Zhang, G.†*, He, W., & Jiang, K. (2024). Delayed pay and employee turnover: The buffering role of pay-for-performance. *Human Resource Management*, *63*(1), 121–139. <strong>(FT-50; JCR: Q1; ABS: 4)</strong>  [[Paper Link]](https://doi.org/10.1002/hrm.22191) 
 
-- Liu, Z., Ozer, M., & <strong style="background-color: lightgreen;">Zhou, K.*</strong> (2023). The role of status diversity in the innovative performance of R&D teams. *R & D Management*, *54*(1), 60–75. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1111/radm.12643) 
+- Liu, Z., Ozer, M., & <strong style="background-color: lightgreen;">Zhou, K.*</strong> (2024). The role of status diversity in the innovative performance of R&D teams. *R & D Management*, *54*(1), 60–75. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1111/radm.12643) 
 
 - <strong style="background-color: lightgreen;">周空</strong>, <ins>应雪晴</ins>, 张兆国*, 刘智强 (2023). 领导自恋对团队突破性创造力的双刃剑效应研究. *管理学报*, *20*(11): 1649–1659. <strong>(国家自然科学基金委B类期刊)</strong>
 
