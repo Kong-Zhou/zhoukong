@@ -7,7 +7,7 @@
 - Liu, Z., <strong style="background-color: lightgreen;">Zhou, K.</strong>*, & Wang, J. (2025). How narcissism, promotion criteria, and empowering leadership jointly influence creativity through diverse information searching: An expectancy perspective. *Human Relations*, *78*(2), 223–246. <strong>(FT-50; JCR: Q1; ABS: 4)</strong> [[Paper Link]](https://doi.org/10.1177/00187267241239855)
 
 - Zhang, Q. <strong style="background-color: lightgreen;">Zhou, K.</strong>, Zhang, Y.*, Zhou, P. & Zhang, Z. (2024). Reexamining the relationship between extrinsic rewards and creativity: a study from the creative process engagement perspective. *The International Journal of Human Resource Management*, Advance online publication. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1080/09585192.2024.2347645)
-- 
+  
 - <ins>赵欢</ins>, 张雅妮, 何为, 曹雨婷, <ins>王妤菁</ins>, <strong style="background-color: lightgreen;">周空</strong>* (2024). 说出我的美事: 好事分享的研究述评与展望. *中国人力资源开发*, *41*(10): 50–68. <strong>(北大核心)</strong>
 
 - Zhang, Q.† <strong style="background-color: lightgreen;">Zhou, K.†</strong>, Shu, P., Liu, W., Ouyang, X.* & Sun, A. (2024). Everything is in hand: when and why electronic performance monitoring leads to supervisor undermining. *Journal of Managerial Psychology*, *39*(8): 949–963. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1108/JMP-11-2023-0686)
