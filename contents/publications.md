@@ -2,7 +2,13 @@
 <br>
 #### Journal Article
 
+- <strong style="background-color: lightgreen;">Zhou, K.*</strong>, & Hu, J. (2025). The implications of COVID-19 for employee health: the moderating roles of perceived government benevolence, leader empathy, and family centrality. *Asia Pacific Journal of Management*, Advance online publication. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1007/s10490-025-10031-7)
+
 - Liu, W. <strong style="background-color: lightgreen;">Zhou, K.</strong>, Ouyang, X.*, Chen, S. & Gao, K. (2025). When invisible eyes undermine proactive efforts: the effect of electronic performance monitoring on job crafting. *Internet Research*, Advance online publication. <strong>(JCR: Q1; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1108/INTR-03-2024-0422)
+
+- 陈思璇, 叶贝, <strong style="background-color: lightgreen;">周空.*</strong> (2025). 惩罚型薪酬框架对工作努力意愿的影响机制研究. *管理科学*, *38*(01): 51–60. <strong>(国家自然科学基金委B类期刊)</strong>
+
+- Chen, S., Ye, B., <strong style="background-color: lightgreen;">Zhou, K.*</strong>, & Wei, X. (2025). Breaking the cycle of injustice: how leaders act justly under the double threat of higher-level injustice and low justice rewards. *Journal of Managerial Psychology*, *40*(4): 404–419. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1108/JMP-01-2024-0012)
 
 - Liu, Z., <strong style="background-color: lightgreen;">Zhou, K.</strong>*, & Wang, J. (2025). How narcissism, promotion criteria, and empowering leadership jointly influence creativity through diverse information searching: An expectancy perspective. *Human Relations*, *78*(2), 223–246. <strong>(FT-50; JCR: Q1; ABS: 4)</strong> [[Paper Link]](https://doi.org/10.1177/00187267241239855)
 
