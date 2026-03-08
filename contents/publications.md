@@ -4,7 +4,7 @@
 
 - <strong style="background-color: lightgreen;">Zhou, K.*</strong>, & Hu, J. (2025). The implications of COVID-19 for employee health: The moderating roles of perceived government benevolence, leader empathy, and family centrality. *Asia Pacific Journal of Management*, Advance online publication. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1007/s10490-025-10031-7)
 
-- Liu, W. <strong style="background-color: lightgreen;">Zhou, K.</strong>, Ouyang, X.*, Chen, S. & Gao, K. (2025). When invisible eyes undermine proactive efforts: the effect of electronic performance monitoring on job crafting. *Internet Research*, Advance online publication. <strong>(JCR: Q1; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1108/INTR-03-2024-0422)
+- Liu, W. <strong style="background-color: lightgreen;">Zhou, K.</strong>, Ouyang, X.*, Chen, S. & Gao, K. (2026). When invisible eyes undermine proactive efforts: the effect of electronic performance monitoring on job crafting. *Internet Research*, *36*(1): 397–416. <strong>(JCR: Q1; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1108/INTR-03-2024-0422)
 
 - 陈思璇, 叶贝, <strong style="background-color: lightgreen;">周空.*</strong> (2025). 惩罚型薪酬框架对工作努力意愿的影响机制研究. *管理科学*, *38*(01): 51–60. <strong>(国家自然科学基金委B类期刊)</strong>
 
@@ -61,6 +61,12 @@
 <br>
 
 #### Conference paper
+
+- <ins>Zhao, H.</ins>, <strong style="background-color: lightgreen;">Zhou, K.</strong>, Ouyang, X., & <ins>Ying, X.</ins> (2025). Punishing or ignoring? supervisor reactions to subordinate unethical pro-organizational behavior. *Academy of Management Proceedings*, 19605. *(Copenhagen, Danmark)*
+
+- Zhou, R., Ouyang, X., <strong style="background-color: lightgreen;">Zhou, K.</strong>, Liang, N., & Yang, J. (2025). Antecedents of meaningful work: a meta-analysis of the justification and realization perspectives. *Academy of Management Proceedings*, 21413. *(Copenhagen, Danmark)*
+
+- Chen, Y., <strong style="background-color: lightgreen;">Zhou, K.</strong>, He, W. (2025). The impact of disclosed pay ranges on attraction: the roles of future pay and distributive justice. *Academy of Management Proceedings*, 469bp. *(Copenhagen, Danmark)*
 
 - <ins>Wang, Y.</ins>, <strong style="background-color: lightgreen;">Zhou, K.</strong>, Liu, Y., Hu, X., <ins>Zhao, H.</ins> & <ins>Zhou, X.</ins> (2024). I am an intelligent leader! How and why leader humor impacts leader’s subsequent behaviors. *Academy of Management Proceedings*, 14597. *(Chicago, U.S.)*
 
