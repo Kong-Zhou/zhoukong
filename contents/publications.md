@@ -2,6 +2,8 @@
 <br>
 #### Journal Article
 
+- Ouyang, X., <strong style="background-color: lightgreen;">Zhou, K.</strong>, Huang, Y., & Xiong, H. (2026). The knowledge-hiding dilemma of leaders: conflicting effects of leader identity on top–down knowledge hiding and the role of hierarchy of authority. *Journal of Knowledge Management*, Advance online publication. <strong>(JCR: Q1; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1108/JKM-06-2025-0946)
+
 - <strong style="background-color: lightgreen;">Zhou, K.*</strong>, & Hu, J. (2025). The implications of COVID-19 for employee health: The moderating roles of perceived government benevolence, leader empathy, and family centrality. *Asia Pacific Journal of Management*, Advance online publication. <strong>(JCR: Q2; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1007/s10490-025-10031-7)
 
 - Liu, W. <strong style="background-color: lightgreen;">Zhou, K.</strong>, Ouyang, X.*, Chen, S. & Gao, K. (2026). When invisible eyes undermine proactive efforts: the effect of electronic performance monitoring on job crafting. *Internet Research*, *36*(1), 397–416. <strong>(JCR: Q1; ABS: 3)</strong> [[Paper Link]](https://doi.org/10.1108/INTR-03-2024-0422)
